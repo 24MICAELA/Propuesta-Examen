@@ -1,3 +1,6 @@
-//
-// Created by Micae on 04/11/2024.
-//
+#include "pitagoricos/pitagoricos.h"
+
+int main() {
+    encontrarTriplesPitagoricos();
+    return 0;
+}
